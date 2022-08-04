@@ -18,7 +18,7 @@ function Navbar() {
                                 <Link href="/foods"><a className="nav-link">FOODS</a></Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="https://santrikoding.com" target="_blank">SANTRIKODING</a>
+                                <a className="nav-link" href="https://santrikoding.com">SANTRIKODING</a>
                             </li>
                         </ul>
                         <form className="d-flex">
